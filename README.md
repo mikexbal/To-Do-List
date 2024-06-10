@@ -1,3 +1,3 @@
 # To-Do-List
-Incorporating system arguments,this application allows users to easily add and remove from the To Do List using commands, such as add and remove.
+Developed a Python-based console application, Listify, that allows users to manage their to-do list with features to add, remove, mark tasks as complete, and clear the list.
 
